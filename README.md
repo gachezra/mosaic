@@ -1,2 +1,2 @@
-# mosaic
+# Mosaic
 Mosaic landing page
